@@ -25,7 +25,7 @@ sections:
       items:
         - title: PhD Research Assistant
           company: University of Colorado Boulder
-          data_Start: '2020-08-01'
+          data_start: '2020-08-01'
         - title: Research Engineer
           company: Singapore-MIT Alliance for Research and Technology
           company_url: ''
