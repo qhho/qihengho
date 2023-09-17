@@ -9,6 +9,7 @@ url_slides: ""
 title: Automaton-Guided Trajectory Synthesis for Signal Temporal Logic
 tags:
   - Motion Planning
+  - Temporal Logic
 links: []
 image:
   caption: ""
