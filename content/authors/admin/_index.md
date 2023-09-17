@@ -29,11 +29,11 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: Ho
 role: Robotics Researcher
 highlight_name: true
 title: Qi Heng Ho
-first_name: Alice
+first_name: Qi Heng
 email: qi.ho@colorado.edu
 ---
 I am a PhD Student in aerospace engineering sciences at the University of Colorado Boulder. I am advised by Morteza Lahijanian and Zachary Sunberg. My research lies in the intersection of formal methods and planning under uncertainty for robots. My goal is to enable safety-critical autonomous systems under uncertainty to complete complex temporal tasks while providing operational guarantees on their safety and liveness properties.
