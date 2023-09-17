@@ -23,12 +23,15 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: PhD Research Assistant
+          company: University of Colorado Boulder
+          data_Start: '2020-08-01'
         - title: Research Engineer
           company: Singapore-MIT Alliance for Research and Technology
           company_url: ''
           location: Singapore
           date_start: '2018-01-01'
-          dateend: '2020-01-01'
+          date_end: '2020-01-01'
     design:
       columns: '2'
   - block: collection
@@ -75,10 +78,10 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: Motion Planning
+          tag: Motion Planning
         - name: Other
-          tag: Demo
+          tag: Other
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
