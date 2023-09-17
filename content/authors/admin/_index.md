@@ -1,4 +1,5 @@
 ---
+avatar_filename: qiheng_ho.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -23,6 +24,8 @@ organizations:
     url: cu-adcl.github.io
 education:
   courses:
+    - course: PhD in Aerospace Engineering
+      institution: University of Colorado Boulder
     - course: BEng in Mechanical Engineering
       institution: National University of Singapore
       year: 2018
