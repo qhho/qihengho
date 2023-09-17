@@ -5,6 +5,7 @@ bio: My research interests include distributed robotics, mobile computing and
 interests:
   - Formal Methods
   - Planning Under Uncertainty
+  - Robotics
 social:
   - icon: envelope
     icon_pack: fas
