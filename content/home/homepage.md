@@ -4,7 +4,7 @@ widget_id: homepage
 headless: true
 weight: 10
 title: Qi Heng Ho
-active: true
+active: false
 design:
   columns: "2"
   background:
