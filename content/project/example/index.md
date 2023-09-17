@@ -7,7 +7,8 @@ date: 2023-09-17T17:59:49.710Z
 external_link: ""
 url_slides: ""
 title: Automaton-Guided Trajectory Synthesis for Signal Temporal Logic
-tags: []
+tags:
+  - Motion Planning
 links: []
 image:
   caption: ""
