@@ -17,7 +17,7 @@ url_source: https://github.com/wowchemy/wowchemy-hugo-themes
 url_video: https://youtube.com
 publication: In ICRA
 featured: false
-date: 2013-07-01T00:00:00.000Z
+date: 2023-09-19T22:41:00.000Z
 url_slides: ""
 title: Planning with SiMBA
 tags: []
@@ -31,6 +31,3 @@ url_poster: ""
 url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 doi: ""
 ---
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
