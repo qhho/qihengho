@@ -25,11 +25,12 @@ organizations:
     url: cu-adcl.github.io
 education:
   courses:
-    - course: PhD in Aerospace Engineering
+    - course: PhD in Aerospace Engineering Sciences (Autonomous Systems)
       institution: University of Colorado Boulder
+    - course: M.S. in Aerospace Engineering Sciences (Autonomous Systems)
+      instituion: University of Colorado Boulder
     - course: BEng in Mechanical Engineering
       institution: National University of Singapore
-      year: 2018
 superuser: true
 status:
   icon: ☕️
@@ -40,6 +41,6 @@ title: Qi Heng Ho
 first_name: Qi Heng
 email: qi.ho@colorado.edu
 ---
-I am a PhD Student in aerospace engineering sciences at the University of Colorado Boulder. I am advised by Morteza Lahijanian and Zachary Sunberg. My research lies in the intersection of formal methods and planning under uncertainty for robots. My goal is to enable safety-critical autonomous systems under uncertainty to complete complex temporal tasks while providing operational guarantees on their safety and liveness properties.
+I am a PhD Student in aerospace engineering sciences at the University of Colorado Boulder. I am advised by Morteza Lahijanian and Zachary Sunberg. My research lies in the intersection of formal methods and planning under uncertainty for robots. My goal is to enable safety-critical autonomous systems under uncertainty to complete complex temporal tasks while providing explicit guarantees on their safety and operatonal properties.
 
 {style="text-align: justify;"}
