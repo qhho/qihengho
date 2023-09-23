@@ -9,13 +9,10 @@ authors:
   - Zachary Sunberg
   - Morteza Lahijanian
 summary: ""
-url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
-url_project: ""
 author_notes: []
 publication: 2023 IEEE International Conference on Robotics and Automation (ICRA)
 featured: false
 date: 2023-05-19T22:41:00.000Z
-url_slides: ""
 title: "Planning with SiMBA: Motion Planning under Uncertainty for Temporal
   Goals using Simplified Belief Guides"
 tags: []
