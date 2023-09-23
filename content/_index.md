@@ -26,8 +26,8 @@ sections:
         - title: PhD Research Assistant
           company: University of Colorado Boulder
           date_start: '2020-08-01'
-        - title: Research Engineer
-          company: Singapore-MIT Alliance for Research and Technology
+        - title: Research Engineer (Autonomous Vehicles)
+          company: Future Urban Mobility, Singapore-MIT Alliance for Research and Technology
           company_url: ''
           location: Singapore
           date_start: '2018-01-01'
@@ -53,6 +53,8 @@ sections:
           tag: '*'
         - name: Motion Planning
           tag: Motion Planning
+        - name: POMDPs
+          tag: POMDP
         - name: Other
           tag: Other
     design:
