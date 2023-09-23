@@ -12,12 +12,9 @@ summary: ""
 url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
 url_project: ""
 author_notes: []
-publication_short: ICRA
-url_source: https://github.com/wowchemy/wowchemy-hugo-themes
-url_video: https://youtube.com
-publication: 2023 IEEE International Conference on Robotics and Automation
+publication: 2023 IEEE International Conference on Robotics and Automation (ICRA)
 featured: false
-date: 2023-09-19T22:41:00.000Z
+date: 2023-05-19T22:41:00.000Z
 url_slides: ""
 title: "Planning with SiMBA: Motion Planning under Uncertainty for Temporal
   Goals using Simplified Belief Guides"
@@ -27,8 +24,6 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-publishDate: 2017-01-01T00:00:00.000Z
-url_poster: ""
-url_code: https://github.com/wowchemy/wowchemy-hugo-themes
-doi: ""
+publishDate: 2023-01-01T00:00:00.000Z
+doi: "10.1109/ICRA48891.2023.10160897"
 ---
