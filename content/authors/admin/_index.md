@@ -3,9 +3,10 @@ avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Formal Methods
   - Planning Under Uncertainty
+  - Formal Methods
   - Robotics
+  - (Hybrid) Systems and Control
 social:
   - icon: envelope
     icon_pack: fas
