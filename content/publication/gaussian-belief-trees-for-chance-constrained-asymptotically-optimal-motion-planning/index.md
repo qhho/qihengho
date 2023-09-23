@@ -2,7 +2,7 @@
 title: Gaussian Belief Trees for Chance Constrained Asymptotically Optimal
   Motion Planning
 publication_types:
-  - "0"
+  - "1"
 authors:
   - Ho
   - Qi Heng and Sunberg
