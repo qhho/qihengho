@@ -65,11 +65,7 @@ sections:
       flip_alt_rows: false
   - block: collection
     content:
-      title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
+      title: Selected Publications
       filters:
         folders:
           - publication
