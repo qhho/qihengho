@@ -23,15 +23,15 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: PhD Research Assistant
+        - title: Graduate Research Assistant
           company: University of Colorado Boulder
           date_start: '2020-08-01'
         - title: Research Engineer (Autonomous Vehicles)
           company: Future Urban Mobility, Singapore-MIT Alliance for Research and Technology
-          company_url: ''
+          company_url: 'https://smart.mit.edu/'
           location: Singapore
-          date_start: '2018-01-01'
-          date_end: '2020-01-01'
+          date_start: '2018-06-01'
+          date_end: '2020-08-01'
     design:
       columns: '2'
   - block: portfolio
