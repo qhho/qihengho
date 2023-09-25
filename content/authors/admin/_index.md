@@ -1,7 +1,6 @@
 ---
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
   - Planning Under Uncertainty
   - Formal Methods
@@ -45,6 +44,6 @@ title: Qi Heng Ho
 first_name: Qi Heng
 email: qi.ho@colorado.edu
 ---
-I am a PhD Student in aerospace engineering sciences at the University of Colorado Boulder. I am advised by Morteza Lahijanian and Zachary Sunberg. My research lies in the intersection of formal methods and planning under uncertainty for robots. My goal is to enable safety-critical autonomous systems under uncertainty to complete complex temporal tasks while providing explicit guarantees on their safety and operatonal properties.
+I am a PhD Student in aerospace engineering sciences at the University of Colorado Boulder. I am advised by Morteza Lahijanian and Zachary Sunberg. My research interests lie at the intersection of formal methods and planning under uncertainty. My goal is to enable safety-critical autonomous robotic systems under uncertainty to complete complex temporal tasks while providing explicit guarantees on their safety and operatonal properties.
 
 {style="text-align: justify;"}
