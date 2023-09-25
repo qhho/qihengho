@@ -32,7 +32,7 @@ education:
       instituion: University of Colorado Boulder
       year: 2023
       institution: University of Colorado Boulder
-    - course: BEng in Mechanical Engineering
+    - course: B.Eng in Mechanical Engineering
       institution: National University of Singapore
       year: 2019
 superuser: true
