@@ -20,9 +20,9 @@ organizations:
   - name: University of Colorado Boulder
     url: ""
   - name: ARIA Systems Lab
-    url: ariasystems.group
+    url: https://ariasystems.group
   - name: Autonomous Decision and Control Lab
-    url: cu-adcl.github.io
+    url: https://cu-adcl.github.io
 education:
   courses:
     - course: PhD in Aerospace Engineering Sciences (Autonomous Systems)
