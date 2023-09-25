@@ -31,6 +31,7 @@ education:
     - course: M.S. in Aerospace Engineering Sciences (Autonomous Systems)
       instituion: University of Colorado Boulder
       year: 2023
+      institution: University of Colorado Boulder
     - course: BEng in Mechanical Engineering
       institution: National University of Singapore
       year: 2019
