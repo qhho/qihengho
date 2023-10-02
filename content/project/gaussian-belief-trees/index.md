@@ -1,5 +1,5 @@
 ---
-title: Gaussian Belief Trees
+title: Sampling-based Gaussian Belief Trees for Chance Constrained Motion Planning under uncertainty
 date: 2023-09-17T18:35:18.674Z
 draft: false
 featured: false
