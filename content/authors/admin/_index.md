@@ -39,7 +39,7 @@ superuser: true
 status:
   icon: ☕️
 last_name: Ho
-role: Robotics Researcher
+role: PhD Candidate
 highlight_name: true
 title: Qi Heng Ho
 first_name: Qi Heng
