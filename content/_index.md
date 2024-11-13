@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: Qi Heng Ho
-date: 2022-10-24
+date: 2024-11-13
 type: landing
 
 sections:
@@ -38,7 +38,7 @@ sections:
           date_end: '2020-08-01'
     design:
       columns: '2'
-  #- block: portfolio
+   # - block: portfolio
   #  id: projects
   #  content:
   #    title: Projects
@@ -52,19 +52,19 @@ sections:
       # To show all items, set `tag` to "*".
       # To filter by a specific tag, set `tag` to an existing tag name.
       # To remove the toolbar, delete the entire `filter_button` block.
-      buttons:
-        - name: All
-          tag: '*'
-        - name: Motion Planning
-          tag: Motion Planning
-        - name: POMDPs
-          tag: POMDP
-        - name: Other
-          tag: Other
-    design:
+    #  buttons:
+    #    - name: All
+    #      tag: '*'
+    #    - name: Motion Planning
+    #      tag: Motion Planning
+    #    - name: POMDPs
+    #      tag: POMDP
+    #    - name: Other
+    #      tag: Other
+    #design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
-      view: showcase
+    #  columns: '1'
+    #  view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
   - block: collection
