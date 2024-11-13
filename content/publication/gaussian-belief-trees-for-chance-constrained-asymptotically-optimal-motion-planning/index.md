@@ -8,7 +8,8 @@ authors:
   - Qi Heng and Sunberg
   - Zachary N. and Lahijanian
   - Morteza
-publication: "2022 IEEE International Conference on Robotics and Automation (ICRA)"
+publication: IEEE International Conference on Robotics and Automation
+publication_short: ICRA
 draft: false
 featured: false
 image:
