@@ -31,7 +31,7 @@ abstract: Partially Observable Markov Decision Processes (POMDPs) are powerful
   that our algorithm outperforms existing methods in almost all cases in both
   probability guarantees and computation time.
 draft: false
-featured: true
+featured: false
 image:
   filename: featured
   focal_point: Smart
