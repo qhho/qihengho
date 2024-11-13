@@ -8,7 +8,7 @@ authors:
   - Morteza Lahijanian
 publication: Robotics and Automation Letters (RA-L) 2024
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
