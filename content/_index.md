@@ -65,7 +65,7 @@ sections:
       flip_alt_rows: false
   - block: collection
     content:
-      title: Selected Publications
+      title: Publications
       filters:
         folders:
           - publication
