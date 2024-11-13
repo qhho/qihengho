@@ -6,9 +6,9 @@ authors:
   - Qi Heng Ho
   - Zachary Sunberg
   - Morteza Lahijanian
-publication: Robotics and Automation Letters (RA-L) 2024
+publication: Robotics and Automation Letters (RA-L)
 draft: false
-featured: true
+featured: false
 image:
   filename: featured
   focal_point: Smart
