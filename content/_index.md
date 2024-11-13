@@ -23,6 +23,10 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Visiting Student Researcher
+          company: NASA Jet Propulsion Laboratory
+          data_start: '2024-07-22'
+          date_end: '2025-09-01'
         - title: Graduate Research Assistant
           company: University of Colorado Boulder
           date_start: '2020-08-01'
