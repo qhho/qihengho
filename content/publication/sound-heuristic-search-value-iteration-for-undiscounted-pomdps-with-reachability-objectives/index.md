@@ -10,6 +10,7 @@ authors:
   - Federico Rossi
   - Zachary Sunberg
   - Morteza Lahijanian
+doi: https://doi.org/10.48550/arXiv.2406.02871
 publication: Uncertainty in Artificial Intelligence
 abstract: Partially Observable Markov Decision Processes (POMDPs) are powerful
   models for sequential decision making under transition and observation
@@ -30,7 +31,7 @@ abstract: Partially Observable Markov Decision Processes (POMDPs) are powerful
   that our algorithm outperforms existing methods in almost all cases in both
   probability guarantees and computation time.
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
