@@ -30,7 +30,7 @@ abstract: "Many sequential decision problems involve optimizing one objective
   algorithm and show that policies for RC-POMDPs produce more desirable
   behaviors than policies for C-POMDPs. "
 draft: false
-featured: true
+featured: false
 image:
   filename: featured
   focal_point: Smart
