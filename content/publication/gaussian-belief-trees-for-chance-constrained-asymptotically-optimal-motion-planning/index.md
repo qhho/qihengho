@@ -8,10 +8,11 @@ authors:
   - Qi Heng and Sunberg
   - Zachary N. and Lahijanian
   - Morteza
+doi: 10.1109/ICRA46639.2022.9812343
 publication: IEEE International Conference on Robotics and Automation
 publication_short: ICRA
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
