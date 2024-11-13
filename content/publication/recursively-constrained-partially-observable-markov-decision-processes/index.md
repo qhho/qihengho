@@ -11,6 +11,7 @@ authors:
   - Federico Rossi
   - Morteza Lahijanian
   - Zachary Sunberg
+doi: https://doi.org/10.48550/arXiv.2310.09688
 publication: Uncertainty in Artificial Intelligence (Oral)
 abstract: "Many sequential decision problems involve optimizing one objective
   function while imposing constraints on other objectives. Constrained Partially
