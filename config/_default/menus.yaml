@@ -17,7 +17,7 @@ main:
     url: 'publication'
     weight: 20
   - name: CV
-    url: CV.pdf
+    url: uploads/CV.pdf
     weight: 30
   - name: Contact
     url: '#contact'
