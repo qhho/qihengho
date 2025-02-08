@@ -23,7 +23,6 @@ organizations:
   - name: Autonomous Decision and Control Lab
     url: https://cu-adcl.github.io
 education:
-  courses:
     - area: PhD in Aerospace Engineering Sciences (Autonomous Systems)
       institution: University of Colorado Boulder
     - area: M.S. in Aerospace Engineering Sciences (Autonomous Systems)
