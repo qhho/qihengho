@@ -5,12 +5,14 @@ date: 2024-11-13
 type: landing
 
 sections:
-  - block: about.biography
-    id: about
+  - block: resume-biography-3
     content:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+      button:
+      text: Download CV
+      url: uploads/resume.pdf
   - block: experience
     content:
       title: Experience
