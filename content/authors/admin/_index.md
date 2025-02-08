@@ -25,13 +25,15 @@ organizations:
 education:
     - area: PhD in Aerospace Engineering Sciences (Autonomous Systems)
       institution: University of Colorado Boulder
+      date_start: 2020-08-01
     - area: M.S. in Aerospace Engineering Sciences (Autonomous Systems)
       instituion: University of Colorado Boulder
-      year: 2023
+      date_start: 2020-08-01
+      date_end: 2023-05-31
       institution: University of Colorado Boulder
     - area: B.Eng in Mechanical Engineering
       institution: National University of Singapore
-      year: 2019
+      date_end: 2019-05-31
 superuser: true
 status:
   icon: ☕️
